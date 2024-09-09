@@ -1,0 +1,16 @@
+{
+  "name": "com.rehcub.ui",
+  "version": "1.0.0",
+  "displayName": "Rehcub UI",
+  "description": "UI made easy",
+  "unity": "2019.1",
+  "unityRelease": "0b5",
+  "dependencies": {
+    "com.unity.inputsystem": "1.6.3"
+  },
+  "author": {
+    "name": "Rehcub",
+    "email": "Rehcub@gmx.de",
+    "url": "https://github.com/RehcubGit"
+  }
+}
